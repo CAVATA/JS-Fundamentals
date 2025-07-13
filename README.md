@@ -17,3 +17,7 @@ node filename.js
   - C is fun
   - Python is cool
   - JavaScript is amazing
+- **2-arguments.js**: Prints a message depending on the number of arguments:
+  - No argument → prints "No argument"
+  - One argument → prints "Argument found"
+  - More than one argument → prints "Arguments found"
