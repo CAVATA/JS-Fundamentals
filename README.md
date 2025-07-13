@@ -29,3 +29,4 @@ node filename.js
 - **6-multi_languages_loop.js**: Prints 3 lines from an array using a loop and only one console.log.
 - **7-multi_c.js**: Prints "C is fun" x times where x is the first argument, or "Missing number of occurrences" if not a number.
 - **8-square.js**: Prints a square of size x using "X" character, or "Missing size" if argument is not a number.
+- **9-add.js**: Defines a function add(a, b) that prints the addition of two integers passed as arguments.
