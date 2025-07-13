@@ -26,3 +26,4 @@ node filename.js
 - **4-concat.js**: Prints two arguments in the format "arg1 is arg2". If arguments are missing, prints "undefined is undefined" accordingly.
 
 - **5-to_integer.js**: Prints "My number: <integer>" if the first argument can be converted to an integer, otherwise prints "Not a number".
+- **6-multi_languages_loop.js**: Prints 3 lines from an array using a loop and only one console.log.
