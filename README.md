@@ -27,3 +27,4 @@ node filename.js
 
 - **5-to_integer.js**: Prints "My number: <integer>" if the first argument can be converted to an integer, otherwise prints "Not a number".
 - **6-multi_languages_loop.js**: Prints 3 lines from an array using a loop and only one console.log.
+- **7-multi_c.js**: Prints "C is fun" x times where x is the first argument, or "Missing number of occurrences" if not a number.
