@@ -23,3 +23,4 @@ node filename.js
   - More than one argument → prints "Arguments found"
 - **3-value_argument.js**: Prints the first argument passed to it, or "No argument" if none is passed.
 
+- **4-concat.js**: Prints two arguments in the format "arg1 is arg2". If arguments are missing, prints "undefined is undefined" accordingly.
