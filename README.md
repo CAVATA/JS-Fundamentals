@@ -21,3 +21,5 @@ node filename.js
   - No argument → prints "No argument"
   - One argument → prints "Argument found"
   - More than one argument → prints "Arguments found"
+- **3-value_argument.js**: Prints the first argument passed to it, or "No argument" if none is passed.
+
