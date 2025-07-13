@@ -13,3 +13,7 @@ To run any script, use:
 ```bash
 node filename.js
 
+- **1-multi_languages.js**: Prints 3 lines:
+  - C is fun
+  - Python is cool
+  - JavaScript is amazing
